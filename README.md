@@ -5,4 +5,4 @@
 
 executar caixa 02
 
- <a href="https://allansales03.github.io/modulo_02/caixa02">Exercicio de caixa</a> 
+ <a href="https://allansales03.github.io/modulo_02/caixa02" target="_blank">Exercicio de caixa</a> 
